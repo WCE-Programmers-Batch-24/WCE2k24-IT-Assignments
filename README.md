@@ -4,10 +4,10 @@
 ## Data Structures⁉
 ## Now that's an Avengers level Threat ❗❗
 
+![Alt text](https://www.freepnglogos.com/uploads/avengers-png-logo/avengers-logo-jmk-prime-deviantart-16.wXI5yDcwdQDQDCH8N2AGVp7CsCIVI8jyeq55ChbwfRM)
 
-![](https://i.pinimg.com/564x/07/a7/11/07a7118298e6d8e6ee655a7046199ee9.jpg)
 
-    
+---
 ## 👩‍💻 Who are we 👨‍💻
 "There was an idea... to bring together a group of remarkable people, to see if we could do something in Data Structure. So that, when the time came, we could solve the problems that they never could."…
 
