@@ -7,12 +7,10 @@
 ![Alt text](https://www.freepnglogos.com/uploads/avengers-png-logo/avengers-logo-jmk-prime-deviantart-16.wXI5yDcwdQDQDCH8N2AGVp7CsCIVI8jyeq55ChbwfRM)
 
 
----
 ## 👩‍💻 Who are we 👨‍💻
 "There was an idea... to bring together a group of remarkable people, to see if we could do something in Data Structure. So that, when the time came, we could solve the problems that they never could."…
 
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 🔰 License
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://choosealicense.com/licenses/mit/)
 
@@ -33,9 +31,13 @@
 
 ## 👩‍💻 IDE
 [![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/download)
----
+
+
 ## 🛠 Skills
+```
 C, CPP . . .
+```
+
 ## Authors
 
 - [Daulatrao Patil (RAO)](https://github.com/RAOexe)
