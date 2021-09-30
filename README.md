@@ -4,11 +4,11 @@
 ## Data Structures⁉
 ## Now that's an Avengers level Threat ❗❗
 
-<img src="https://github.com/DnyaneshwariKolapkar/WCE2k24_Data_Structures/avengers-png-logo-27975.wXI5yDcwdQDQDCH8N2AGVp7CsCIVI8jyeq55ChbwfRM" align="right"
-     alt="Logo" width="120" height="178">
+<!-- <img src="https://github.com/DnyaneshwariKolapkar/WCE2k24_Data_Structures/avengers-png-logo-27975.wXI5yDcwdQDQDCH8N2AGVp7CsCIVI8jyeq55ChbwfRM" align="right"
+     alt="Logo" width="120" height="178"> -->
 
 
-<!-- ![Alt text](https://www.freepnglogos.com/uploads/avengers-png-logo/avengers-logo-jmk-prime-deviantart-16.wXI5yDcwdQDQDCH8N2AGVp7CsCIVI8jyeq55ChbwfRM) -->
+![Alt text](https://www.freepnglogos.com/uploads/avengers-png-logo/avengers-logo-jmk-prime-deviantart-16.wXI5yDcwdQDQDCH8N2AGVp7CsCIVI8jyeq55ChbwfRM)
 
 
 ## 👩‍💻 Who are we 👨‍💻
