@@ -45,4 +45,3 @@ C, CPP . . .
 - [Ritesh Ram Wanave](https://github.com/RiteshWanave)
 - [Vaishnavi Kulkarni](https://github.com/vaishnavi802)
 - [Om_G](https://github.com/ProProgrammer18)
-- [Shrenik Jadhav](https://github.com/SHRENIK000)
