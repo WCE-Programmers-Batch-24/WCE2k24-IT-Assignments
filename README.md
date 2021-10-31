@@ -1,6 +1,6 @@
 <img src="https://www.freepnglogos.com/uploads/avengers-png-logo/avengers-logo-jmk-prime-deviantart-16.wXI5yDcwdQDQDCH8N2AGVp7CsCIVI8jyeq55ChbwfRM" align="right"
      alt="Logo" width="150" height="178">
-# WCE2k24_Data_Structures
+# WCE2k24_IT_Data_Structures_Assignments
 
 ## Data Structures⁉
 ## Now that's an Avengers level Threat ❗❗
@@ -45,4 +45,3 @@ C, CPP . . .
 - [Ritesh Ram Wanave](https://github.com/RiteshWanave)
 - [Vaishnavi Kulkarni](https://github.com/vaishnavi802)
 - [Om_G](https://github.com/ProProgrammer18)
-- [Shrenik Jadhav](https://github.com/SHRENIK000)
