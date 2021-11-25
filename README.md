@@ -44,4 +44,6 @@ C, CPP . . .
 - [Dnyaneshwari Kolpkar](https://github.com/DnyaneshwariKolapkar)
 - [Ritesh Ram Wanave](https://github.com/RiteshWanave)
 - [Vaishnavi Kulkarni](https://github.com/vaishnavi802)
+- [Nidhish Chauhan](https://github.com/Nidhish-07)
+- [Athrava_D](https://github.com/atharvad97)
 - [Om_G](https://github.com/ProProgrammer18)
