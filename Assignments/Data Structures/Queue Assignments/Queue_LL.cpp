@@ -35,6 +35,7 @@ public:
 
     void enqueue(int data);
     int dequeue();
+    void display();
 };
 
 // Function to enqueue an element in the queue using LL implementation of Queue
@@ -78,6 +79,25 @@ int Queue::dequeue(){
     }
 }
 
+// Display the Queue
+void Queue::display(){
+    // If queue is empty
+    if(this->front == NULL){
+        cout<<"Queue is empty"<<endl;
+        return;
+    }
+
+    // Create a temporary node
+    Node* temp = this->front;
+
+    // Traverse the queue
+    while(temp != NULL){
+        cout<<temp->data<<" ";
+        temp = temp->next;
+    }
+    cout<<endl;
+}
+
 int main(){
     Queue q;
 
@@ -87,7 +107,9 @@ int main(){
         cout<<"---------------------Menu---------------------\n";
         cout<<"1. Enqueue"<<endl;
         cout<<"2. Dequeue"<<endl;
-        cout<<"3. Exit"<<endl;
+        cout<<"3. Display"<<endl;
+        cout<<"4. Exit"<<endl;
+        
 
         cout<<"Enter your choice: ";
         cin>>choice;
@@ -103,12 +125,16 @@ int main(){
                 cout<<"Dequeued element: "<<q.dequeue()<<endl;
                 break;
             case 3:
+                cout<<"Display"<<endl;
+                q.display();
+                break;
+            case 4:
                 cout<<"Exiting..."<<endl;
                 break;
             default:
                 cout<<"Invalid choice"<<endl;
         }
-    }while(choice != 3);
+    }while(choice != 4);
 
     return 0;
 }
