@@ -205,8 +205,8 @@ void Deque::Display(){
             first = first->next;
         }
 
-        // Display last element
-        cout << this->rear->data << endl;
+        // Display last two element
+        cout << last->data<< " " << this->rear->data << endl;
 
         // Move front and rear to point to NULL
         first = NULL;
