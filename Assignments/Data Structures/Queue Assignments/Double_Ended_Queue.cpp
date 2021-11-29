@@ -150,12 +150,8 @@ int Deque::getFront(){
         cout << "Deque is empty" << endl;
         return -1;
     }
-    // If Deque has only one element
+    // If Deque ain't empty
     else if(this->front == this->rear){
-        return this->front->data;
-    }
-    // If Deque has more than one element
-    else{
         return this->front->data;
     }
 }
@@ -167,13 +163,9 @@ int Deque::getRear(){
         cout << "Deque is empty" << endl;
         return -1;
     }
-    // If Deque has only one element
+    // If Deque ain't empty
     else if(this->front == this->rear){
         return this->front->data;
-    }
-    // If Deque has more than one element
-    else{
-        return this->rear->data;
     }
 }
 
