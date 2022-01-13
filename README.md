@@ -1,7 +1,6 @@
 <img src="https://www.freepnglogos.com/uploads/avengers-png-logo/avengers-logo-jmk-prime-deviantart-16.wXI5yDcwdQDQDCH8N2AGVp7CsCIVI8jyeq55ChbwfRM" align="right"
      alt="Logo" width="150" height="178">
 # WCE2k24_IT_Data_Structures_Assignments
-![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 ## Data Structures⁉
 ## Now that's an Avengers level Threat ❗❗
 
@@ -10,6 +9,7 @@
 ## 👩‍💻 Who are we 👨‍💻
 "There was an idea... to bring together a group of remarkable people, to see if we could do something in Data Structure. So that, when the time came, we could solve the problems that they never could."…
 
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## 🔰 License
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://choosealicense.com/licenses/mit/)
