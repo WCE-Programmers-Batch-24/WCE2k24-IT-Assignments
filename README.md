@@ -18,6 +18,7 @@
 ## 🤜🤛 Group
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DnyaneshwariKolapkar/WCE2k24_Data_Structures)
 [![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/aGRqQWE4)
+
 [![Discord](https://img.shields.io/discord/804974609396269066?style=social)](https://discord.gg/y6wfr4hK6t)
 
 
